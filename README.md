@@ -9,7 +9,7 @@ Body<br>
 ---> Left Hand Side Navigation<br>
 ---> Main Content
 
-#Current Contents
+# Current Contents
 Currently there is two files:
 - index.html --> this is the main index page, it contains the base framework and also includes some placeholder text for the "top nav", "side nav" and "main content"
 
